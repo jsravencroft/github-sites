@@ -1,2 +1,2 @@
 # github-sites
-Just Github sites goofin.
+Just Github Pages
